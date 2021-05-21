@@ -1,5 +1,5 @@
 # sms-serverless
-Serviço web construído sob uma arquitura serverless que envia sms por meio do Twilio
+Aplicativo web (construído com o Chalice framework) sob uma arquitura serverless que envia sms por meio do Twilio
 
 <h2> Instruções para configurar o projeto e fazer o deploy no AWS Lambda </h2>
 
