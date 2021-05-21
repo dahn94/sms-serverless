@@ -1,7 +1,7 @@
 # sms-serverless
-Serviço web que envia sms por meio do Twilio construído com o framework Chalice e deploy no AWS Lambda
+Serviço web construído sob uma arquitura serverless que envia sms por meio do Twilio
 
-<h2> Configuração necessária para rodar o projeto</h2>
+<h2> Instruções para configurar o projeto e fazer o deploy no AWS Lambda </h2>
 
 1. Após clonar o repositório em seu computador, mova-se para dentro da pasta do projeto e realize a criação de ambiente virtual para rodar a aplicação:
 ```
