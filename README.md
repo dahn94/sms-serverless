@@ -31,7 +31,7 @@ pip install -r requirements.txt
 chalice deploy
 ```
 
-6. Fazendo uma requição:
+6. Fazendo uma requisição:
 ```
 $ curl -H "Content-Type: application/json" -X POST -d '{"msg": "Olá, Mundo!!!"}' Sua_Rest_API_URL+/service/sms/send
 ```
