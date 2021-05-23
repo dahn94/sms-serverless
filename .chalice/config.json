@@ -1,0 +1,15 @@
+{
+  "version": "2.0",
+  "app_name": "sms-serverless ",
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api",
+      "environment_variables": {
+        "ACCOUNT_SID": "<account-sid-twilio>",
+        "AUTH_TOKEN": "<auth-token-twilio>",
+        "FROM_NUMBER": "<phone-number-twilio>",
+        "TO_NUMBER": "<numero-destino>"
+     }
+    }
+  }
+}
